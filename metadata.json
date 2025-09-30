@@ -1,0 +1,6 @@
+{
+  "name": "Steganography Studio by Yasin",
+  "description": "A web application for steganography and cryptography. Hide messages in images, or use the super-advanced Universal Decoder with AI-powered forensic analysis to automatically detect and extract hidden data. Also includes hashing tools, a password cracker, and other utilities.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
