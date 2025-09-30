@@ -78,6 +78,14 @@ Your privacy is paramount. All core cryptographic functions, hashing, and stegan
 
 ---
 
+## 📅 Version Control
+
+**v1.0.0 (12/12/2024)**
+-   Initial public release.
+-   All core features implemented, including the Universal Decoder, all steganography methods, and the full suite of crypto tools.
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License with an important restriction. You are free to use, modify, and distribute this software for personal and educational purposes.
